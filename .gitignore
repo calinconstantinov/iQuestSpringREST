@@ -1,0 +1,7 @@
+*target*
+*.war
+*.ear
+
+#IDEA specific git ignore
+.idea/*
+*.iml
